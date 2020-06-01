@@ -1,0 +1,16 @@
+body {
+    background: rgb(38, 166, 154);
+    background: linear-gradient(90deg, rgba(38, 166, 154, 1) 1%, rgba(79, 236, 221, 1) 100%);
+}
+
+h1 {
+    text-align: center;
+}
+
+#show-header {
+    margin-top: 0px;
+}
+
+.row {
+    margin-top: 25vh;
+}
